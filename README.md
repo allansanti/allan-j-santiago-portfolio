@@ -1,5 +1,16 @@
-# allan-j-santiago-portfolio
+# Allan J. Santiago Portfolio
 
-About me: mention DnD or Sci-Fi, make it personal
-My skills and projects should be separate
-I need to grow more accostumed to writing down my changes
+## Project Description
+With this portfolio, potential employers will be able to see my skills in coding and previous projects I have made. I found that my base knowledge in coding is still lacking, but I hope to, in the coming weeks, remake this site to be appealing to all who see it
+
+## Installation
+N/A
+
+## Usage
+N/A
+
+## Credits
+N/A
+
+## License
+Refer to repo
